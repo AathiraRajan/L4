@@ -256,7 +256,7 @@ const Exercise4 = () => {
     return (
         <View style={styles.parent}>
             <View style={[styles.child, styles.square1]}>
-                <Text>Square 1</Text>
+                <Text>Square 1 test</Text>
             </View>
             <View style={[styles.child, styles.square2]}>
                 <Text>Square 2</Text>
